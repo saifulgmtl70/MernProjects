@@ -1,0 +1,377 @@
+[
+  {
+    "name": "American Parks Trail End Rapid City",
+    "types": {
+      "dbl":"Double Room",
+      "faml":"Family Room"
+    },
+    "capacity": {
+      "adults": 2,
+      "children": 4
+    },
+
+    "slider_imgs":{
+      "slider_img_1":"https://sailing.thimpress.com/demo-10/wp-content/uploads/sites/23/2014/01/room-4-1-1920x800.jpg",
+      "slider_img_2":"https://sailing.thimpress.com/demo-10/wp-content/uploads/sites/23/2014/01/room-1-1-1920x800.jpg",
+      "slider_img_3":"https://sailing.thimpress.com/demo-10/wp-content/uploads/sites/23/2014/01/room-2-1-1920x800.jpg",
+      "slider_img_4":"https://sailing.thimpress.com/demo-10/wp-content/uploads/sites/23/2014/01/room-3-1-1920x800.jpg",
+      "slider_img_5":"https://sailing.thimpress.com/demo-10/wp-content/uploads/sites/23/2014/01/room-1-1-1920x800.jpg"
+    },
+
+    "room_img":"https://i.ibb.co/F850yT3/asset-4.jpg",
+    "price_per_night": 200,
+    "description": "Spacious deluxe room with modern amenities."
+  },
+
+
+  {
+    "name": "San Domenico Palace Suite",
+    "types": {
+      "faml":"Family Room"
+    },
+    "capacity": {
+      "adults": 2,
+      "children": 3
+    },
+    
+    "slider_imgs":{
+      "slider_img_1":"https://i.ibb.co/3CJy9hw/luxury-sitting-1-1920x800.jpg",
+      "slider_img_2":"https://i.ibb.co/VBGr26L/room-2-1-1920x800.jpg",
+      "slider_img_3":"https://i.ibb.co/CtR0T0S/room-3-1-1920x800.jpg",
+      "slider_img_4":"https://i.ibb.co/Mn8P6xg/room-1-1-1920x800.jpg",
+      "slider_img_5":"https://i.ibb.co/x6whX24/blog-room-1-1920x800.jpg"
+    },
+
+    "room_img":"https://i.ibb.co/fq2BSXn/asset-5.jpg",
+    "price_per_night": 300,
+    "description": "Large suite ideal for families with breathtaking views."
+  },
+
+
+  {
+    "name": "TTaormina Bay Suite",
+    "types": {
+      "singl":"Single Room"
+    },
+    "capacity": {
+      "adults": 2,
+      "children": 0
+    },
+    
+    
+    "room_img":"https://i.ibb.co/gFRQj6b/asset-6.jpg",
+    "price_per_night": 150,
+    "description": "Comfortable room with twin beds and essential amenities."
+  },
+
+  {
+    "name": "Bougainville Suite",
+    "types": {
+      "dbl":"Double Room"
+    },
+    "capacity": {
+      "adults": 2,
+      "children": 1
+    },
+    
+    "slider_imgs":{
+      "slider_img_1":"https://i.ibb.co/P6w4v87/family-room-2-1-1920x800.jpg",
+      "slider_img_2":"https://i.ibb.co/3CJy9hw/luxury-sitting-1-1920x800.jpg",
+      "slider_img_3":"https://i.ibb.co/cykb0cZ/luxury-room-1-1920x800.jpg",
+      "slider_img_4":"https://i.ibb.co/CtR0T0S/room-3-1-1920x800.jpg",
+      "slider_img_5":"https://i.ibb.co/9tPxqK1/post-double-room-2-1-1920x800.jpg"
+    },
+    "room_img":"https://i.ibb.co/9NVdSwb/asset-7.webp",
+    "price_per_night": 120,
+    "description": "A cozy room perfect for a relaxing stay."
+  },
+
+  {
+    "name": "Grand Hotel Suite – Terrace & Jacuzzi",
+    "types": {
+      "singl":"Single Room"
+    },
+    "capacity": {
+      "adults": 3,
+      "children": 0
+    },
+    
+    
+    "room_img":"https://i.ibb.co/0yFK08Q/asset-8.webp",
+    "price_per_night": 250,
+    "description": "Luxurious suite offering a premium experience."
+  },
+
+  {
+    "name": "Grand Hotel Terrace & Jacuzzi",
+    "types": {
+      "singl":"Single Room",
+      "twnin":"Twin Room"
+    },
+    "capacity": {
+      "adults": 6,
+      "children": 2
+    },
+    
+    "slider_imgs":{
+      "slider_img_1":"",
+      "slider_img_2":"",
+      "slider_img_3":"",
+      "slider_img_4":"",
+      "slider_img_5":""
+    },
+    "room_img":"https://i.ibb.co/0qxzqYX/asset-9.jpg",
+    "price_per_night": 1000,
+    "description": "Extravagant suite with top-notch amenities and services."
+  },
+
+  {
+    "name": "Grand Hotel Junior Suite – Sea View ",
+    "types": {
+      "dbl":"Double Room"
+    },
+    "capacity": {
+      "adults": 1,
+      "children": 0
+    },
+    
+    "slider_imgs":{
+      "slider_img_1":"",
+      "slider_img_2":"",
+      "slider_img_3":"",
+      "slider_img_4":"",
+      "slider_img_5":""
+    },
+    "room_img":"https://i.ibb.co/rbtgLs4/premium-photo-1670360414903-19e5832f8bc4-w-500-auto-format-fit-crop-q-60-ixlib-rb-4-0.jpg",
+    "price_per_night": 80,
+    "description": "An affordable room for solo travelers."
+  },
+
+  {
+    "name": "Grand Hotel Junior Suite – Sea View",
+    "types": {
+      "delx":"Deluxe Room"
+    },
+    "capacity": {
+      "adults": 2,
+      "children": 0
+    },
+    
+    "slider_imgs":{
+      "slider_img_1":"",
+      "slider_img_2":"",
+      "slider_img_3":"",
+      "slider_img_4":"",
+      "slider_img_5":""
+    },
+    "room_img":"https://i.ibb.co/c60Qy4J/photo-1611892440504-42a792e24d32-w-500-auto-format-fit-crop-q-60-ixlib-rb-4-0.jpg",
+    "price_per_night": 400,
+    "description": "Romantic suite perfect for honeymooners."
+  },
+
+  {
+    "name": "Grand Hotel Large Sea View Terrace",
+    "types": {
+      "dbl":"Double Room"
+    },
+    "capacity": {
+      "adults": 8,
+      "children": 4
+    },
+    
+    "slider_imgs":{
+      "slider_img_1":"",
+      "slider_img_2":"",
+      "slider_img_3":"",
+      "slider_img_4":"",
+      "slider_img_5":""
+    },
+    "room_img":"https://i.ibb.co/SX71LsY/photo-1582719478250-c89cae4dc85b-w-500-auto-format-fit-crop-q-60-ixlib-rb-4-0.jpg",
+    "price_per_night": 1500,
+    "description": "Exquisite villa with direct beach access."
+  },
+
+  {
+    "name": "Convent Sea View Terrace",
+    "types": {
+      "singl":"Single Room"
+    },
+    "capacity": {
+      "adults": 4,
+      "children": 1
+    },
+    
+    "slider_imgs":{
+      "slider_img_1":"",
+      "slider_img_2":"",
+      "slider_img_3":"",
+      "slider_img_4":"",
+      "slider_img_5":""
+    },
+    "room_img":"https://i.ibb.co/wLHcwrs/photo-1568495248636-6432b97bd949-w-500-auto-format-fit-crop-q-60-ixlib-rb-4-0.jpg",
+    "price_per_night": 800,
+    "description": "Elegant penthouse suite with panoramic views."
+  },
+
+  {
+    "name": "Convent Sea View",
+    "types": {
+      "singl":"Single Room",
+      "faml":"Family Room",
+      "delx":"Deluxe Room"
+    },
+    "capacity": {
+      "adults": 3,
+      "children": 2
+    },
+    
+    "slider_imgs":{
+      "slider_img_1":"",
+      "slider_img_2":"",
+      "slider_img_3":"",
+      "slider_img_4":"",
+      "slider_img_5":""
+    },
+    "room_img":"https://i.ibb.co/CKfjQmK/photo-1590490360182-c33d57733427-w-500-auto-format-fit-crop-q-60-ixlib-rb-4-0.jpg",
+    "price_per_night": 300,
+    "description": "Quaint cottage nestled amidst nature."
+  },
+
+  {
+    "name": "Convent Junior Suite With Sea View",
+    "types": {
+      "twnin":"Twin Room"
+    },
+    "capacity": {
+      "adults": 1,
+      "children": 0
+    },
+    
+    "slider_imgs":{
+      "slider_img_1":"",
+      "slider_img_2":"",
+      "slider_img_3":"",
+      "slider_img_4":"",
+      "slider_img_5":""
+    },
+    "room_img":"https://i.ibb.co/JrR1S8f/asset-38.jpg",
+    "price_per_night": 150,
+    "description": "Comfortable room designed for business travelers."
+  },
+
+  {
+
+    "name": "Convent Garden Grand Suite",
+    "types": {
+      "twnin":"Twin Room",
+      "delx":"Deluxe Room",
+      "faml":"Family Room"
+    },
+    "capacity": {
+      "adults": 2,
+      "children": 0
+    },
+    
+    "slider_imgs":{
+      "slider_img_1":"",
+      "slider_img_2":"",
+      "slider_img_3":"",
+      "slider_img_4":"",
+      "slider_img_5":""
+    },
+    "room_img":"https://i.ibb.co/9Yjx64Z/photo-1566195992011-5f6b21e539aa-w-500-auto-format-fit-crop-q-60-ixlib-rb-4-0.jpg",
+    "price_per_night": 350,
+    "description": "Relaxing retreat with spa facilities."
+  },
+
+  {
+    "name": "Grand Hotel Classic",
+    "types": {
+      "singl":"Single Room"
+    },
+    "capacity": {
+      "adults": 3,
+      "children": 1
+    },
+    
+    "slider_imgs":{
+      "slider_img_1":"",
+      "slider_img_2":"",
+      "slider_img_3":"",
+      "slider_img_4":"",
+      "slider_img_5":""
+    },
+    "room_img":"https://i.ibb.co/LRrt9sk/photo-1556438758-8d49568ce18e-w-500-auto-format-fit-crop-q-60-ixlib-rb-4-0.jpg",
+    "price_per_night": 180,
+    "description": "Charming room with a touch of vintage elegance."
+  },
+
+  {
+    "name": "Grand Hotel Sea View",
+    "types": {
+      "singl":"Single Room"
+    },
+    "capacity": {
+      "adults": 2,
+      "children": 3
+    },
+    
+    "slider_imgs":{
+      "slider_img_1":"",
+      "slider_img_2":"",
+      "slider_img_3":"",
+      "slider_img_4":"",
+      "slider_img_5":""
+    },
+    "room_img":"https://i.ibb.co/rH0QKqT/photo-1631049552057-403cdb8f0658-w-500-auto-format-fit-crop-q-60-ixlib-rb-4-0.jpg",
+    "price_per_night": 170,
+    "description": "A welcoming room for guests with pets."
+  },
+
+  {
+    "name": "Grand Hotel Sea View Terrace",
+    "types": {
+      "singl":"Single Room",
+      "delx":"Deluxe Room",
+      "faml":"Family Room"
+    },
+    "capacity": {
+      "adults": 2,
+      "children": 0
+    },
+    
+    "slider_imgs":{
+      "slider_img_1":"",
+      "slider_img_2":"",
+      "slider_img_3":"",
+      "slider_img_4":"",
+      "slider_img_5":""
+    },
+    "room_img":"https://i.ibb.co/LRbzhGP/premium-photo-1674676471380-1258cb31b3ac-w-500-auto-format-fit-crop-q-60-ixlib-rb-4-0.jpg",
+    "price_per_night": 220,
+    "description": "Scenic room with stunning mountain views."
+  },
+
+  {
+    "name": "Grand Hotel Deluxe – Sea View Terrace",
+    "types": {
+      "twnin":"Twin Room",
+      "dbl":"Deluxe Room"
+    },
+    "capacity": {
+      "adults": 3,
+      "children": 4
+    },
+    
+    "slider_imgs":{
+      "slider_img_1":"",
+      "slider_img_2":"",
+      "slider_img_3":"",
+      "slider_img_4":"",
+      "slider_img_5":""
+    },
+    "room_img":"https://i.ibb.co/vkcx1ZR/photo-1595576508898-0ad5c879a061-w-500-auto-format-fit-crop-q-60-ixlib-rb-4-0.jpg",
+    "price_per_night": 280,
+    "description": "Suite offering breathtaking cityscape views."
+  }
+]

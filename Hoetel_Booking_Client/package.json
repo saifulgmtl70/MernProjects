@@ -1,0 +1,52 @@
+{
+  "name": "hoetel-booking-server",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@material-tailwind/react": "^2.1.4",
+    "@react-google-maps/api": "^2.19.2",
+    "axios": "^1.6.2",
+    "firebase": "^10.6.0",
+    "flowbite": "^2.1.1",
+    "flowbite-react": "^0.6.4",
+    "google-map-react": "^2.2.1",
+    "keen-slider": "^6.8.6",
+    "keep-react": "^1.0.2",
+    "localforage": "^1.10.0",
+    "match-sorter": "^6.3.1",
+    "moment": "^2.29.4",
+    "preline": "^2.0.0",
+    "react": "^18.2.0",
+    "react-datepicker": "^4.21.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.12.0",
+    "react-id-swiper": "^4.0.0",
+    "react-router-dom": "^6.19.0",
+    "react-toastify": "^9.1.3",
+    "sort-by": "^1.2.0",
+    "sweetalert2": "^11.10.0",
+    "swiper": "^11.0.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.2.0",
+    "autoprefixer": "^10.4.16",
+    "daisyui": "^4.4.2",
+    "eslint": "^8.53.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.4",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "vite": "^5.0.0"
+  }
+}

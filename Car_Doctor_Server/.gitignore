@@ -1,0 +1,5 @@
+node_modules
+.env
+_deploy.js
+_jwt_Steps.js
+.vercel
